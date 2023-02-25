@@ -1,0 +1,15 @@
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\bin\Debug\net6.0\HOMEPRACT.exe
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\bin\Debug\net6.0\HOMEPRACT.deps.json
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\bin\Debug\net6.0\HOMEPRACT.runtimeconfig.json
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\bin\Debug\net6.0\HOMEPRACT.dll
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\bin\Debug\net6.0\HOMEPRACT.pdb
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.csproj.AssemblyReference.cache
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.AssemblyInfoInputs.cache
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.AssemblyInfo.cs
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.csproj.CoreCompileInputs.cache
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.dll
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\refint\HOMEPRACT.dll
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.pdb
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\HOMEPRACT.genruntimeconfig.cache
+C:\Users\jekic\OneDrive\Рабочий стол\WORKH\HOMEPRACT\obj\Debug\net6.0\ref\HOMEPRACT.dll
